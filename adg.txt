@@ -1,1 +1,6 @@
-@@eurogamer.net^
+@@eurogamer.net^$important
+@@hanime.tv^$important
+@@opencritic.com^$important
+@@nowinstock.net^$important
+@@rakuten.com^$important
+@@slickdeals.net^$important
